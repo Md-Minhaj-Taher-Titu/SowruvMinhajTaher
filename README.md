@@ -1,11 +1,28 @@
-- 👋 Hi, I’m @SowruvMinhajTaher
-- 👀 I’m interested in Software Engineering, Machine Learning, Artificial Intelligence, Data Science ,Web Development and DBMS.
-- 🌱 I’m currently learning Advanced Data Structures and Algorithms.
-- 📫 email: minhajtaherbd@gmail.com
-- 📫 phone: +8801834599367
-- check my profile on LeetCode : https://leetcode.com/minhajtaherbd/
+# Hi there, I'm Md Minhaj Taher Titu👋
 
-<!---
-SowruvMinhajTaher/SowruvMinhajTaher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 **M.Sc. Student in Artificial Intelligence and Intelligent Systems** at the University of Bremen, Germany.
+
+---
+
+### 🔬 About Me
+
+* 🧠 **Interests:** Artificial Intelligence | Data Science | Machine Learning | Software Engineering
+* 🌱 **Currently:** Pursuing my Master's degree at the **University of Bremen**
+* 💡 **Focus:** Building intelligent systems, scalable software solutions, and machine learning models
+* 💻 **LeetCode:** [leetcode.com/minhajtaherbd](https://leetcode.com/minhajtaherbd/)
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+* **Languages:** Python, C++, Java, JavaScript, SQL
+* **AI / ML / Data:** PyTorch, TensorFlow, Scikit-Learn, Pandas, NumPy
+* **Tools & Platforms:** Git, GitHub, Docker, Linux
+
+---
+
+### 📫 Connect with Me
+
+* 📧 **Email:** [minhajtaherbd@gmail.com](mailto:minhajtaherbd@gmail.com)
+* 📞 **Phone:** +49 1521 0751253 (Germany) / +880 1834 599367 (Bangladesh)
+* 🧩 **LeetCode:** [minhajtaherbd](https://leetcode.com/minhajtaherbd/)
